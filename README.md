@@ -14,3 +14,4 @@ This project demonstrates API gateway using microservices architecture, separate
 * **discover-server**: Eureka server for service discovery
 * **auth-service**: JWT authentication service
 * **protected-service**: service with sensitive data
+
